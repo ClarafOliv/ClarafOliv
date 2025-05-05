@@ -22,19 +22,13 @@
 ---
 
 <div align="left">
-  <img align="left" height="120" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzZ4YWthcG85MmJocW9ic3BsYWF2czIyMHp4dWFlMGYzZmc4dHl2aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l7zabeVIt16efVp6wg/giphy.gif" style="margin-right: 0px;" />
-  <p style="margin-left: 10px;">  👾 I love exploring the intersection between code and storytelling — especially through games. I'm currently learning C#, and in my free time, I build small projects (most of them quirky little games that help me experiment and improve).<br><br>✨ I'm always looking for new challenges, meaningful collaborations, and experiences that help me grow — both as a developer and as a person.</p>
+<img align="left" height="120" style="margin-right: 20px;" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzZ4YWthcG85MmJocW9ic3BsYWF2czIyMHp4dWFlMGYzZmc4dHl2aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l7zabeVIt16efVp6wg/giphy.gif" />
+
+<p align="left">
+👾 I love exploring the intersection between code and storytelling — especially through games. I'm currently learning C#, and in my free time, I build small projects (most of them quirky little games that help me experiment and improve).<br><br>
+✨ I'm always looking for new challenges, meaningful collaborations, and experiences that help me grow — both as a developer and as a person.
+</p>
 </div>
-
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ClarafOliv/ClarafOliv/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ClarafOliv/ClarafOliv/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ClarafOliv/ClarafOliv/output/pacman-contribution-graph.svg">
-</picture>
-
-<br clear="both">
 
 <hr>
 
